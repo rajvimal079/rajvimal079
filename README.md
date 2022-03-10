@@ -1,0 +1,1 @@
+[![Board Status](https://dev.azure.com/Vimalraaju/c79873f6-1818-42f9-a69f-e8aced532dec/56b524a9-40f7-4f9d-a165-8f575ae8b7e7/_apis/work/boardbadge/6c83da34-0327-44e8-bd97-2e58f25ff1e8?columnOptions=1)](https://dev.azure.com/Vimalraaju/c79873f6-1818-42f9-a69f-e8aced532dec/_boards/board/t/56b524a9-40f7-4f9d-a165-8f575ae8b7e7/Microsoft.RequirementCategory/)
